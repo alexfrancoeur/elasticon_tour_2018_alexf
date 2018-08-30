@@ -80,6 +80,18 @@ while True:
         url = random.choice(url_list)
         os = random.choice(os_list)
         country = random.choice(country_list)
+
+        if unique_users > 2350000:
+            total_downloads = 1199999
+            unique_users = 749900
+            reports_generated = 2499000
+            office_displays = 500
+            custom_plugins = 100
+            mini_apps = 250
+            status = "good"
+            url = "http://canvas.elastic.co/"
+            os = "osx"
+            country = "US"
     except:
         print "Error contacting elasticsearch"
     print "sleeping for 5 sec"
