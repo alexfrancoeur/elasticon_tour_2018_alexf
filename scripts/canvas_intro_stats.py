@@ -7,6 +7,7 @@ import random
 import pytz
 
 es = elasticsearch.Elasticsearch(['localhost'],port=9400,http_auth=("elastic","Elastic2018!"))
+#es = elasticsearch.Elasticsearch(['localhost'],port=9200)
 
 mapping = {
     "mappings" : {
