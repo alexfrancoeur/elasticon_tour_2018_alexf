@@ -1,0 +1,3 @@
+Ingest sample_ecommerce data:
+
+curl --user elastic -H 'Content-Type: application/x-ndjson' -XPOST 'localhost:9400/sample_ecommerce/_bulk?pretty' --data-binary @ecommerce.json

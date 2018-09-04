@@ -33,10 +33,10 @@
           "zip_code": {
             "type": "keyword"
           },
-          "gross_area_sqft": {
+          "gross_area": {
             "type": "integer"
           },
-          "site_eui_kbtu_sf": {
+          "site_eui": {
             "type": "float"
           },
           "energy_star_score": {
@@ -48,10 +48,10 @@
           "year_built": {
             "type": "keyword"
           },
-          "ghg_emissions_mtco2e": {
+          "ghg_emissions": {
             "type": "float"
           },
-          "ghg_intesity_kgco2_sf": {
+          "ghg_intensity": {
             "type": "float"
           },
           "total_site_energy": {
@@ -66,10 +66,10 @@
           "percent_steam": {
             "type": "float"
           },
-          "water_intensity_gal_sf": {
-            "type": "float",
+          "water_intensity": {
+            "type": "float"
           },
-          "onsite_renewable_kwh": {
+          "onsite_renewable": {
             "type": "integer"
           },
           "user_submitted_info": {

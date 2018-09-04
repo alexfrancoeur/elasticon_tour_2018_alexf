@@ -1,0 +1,462 @@
+[
+  {
+    "_id": "f571efb0-5dec-11e8-b96c-afa1a43e8ec0",
+    "_type": "dashboard",
+    "_source": {
+      "title": "[eCommerce] Elastic Tee KPI's",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"panelIndex\":\"1\",\"gridData\":{\"x\":0,\"y\":24,\"w\":24,\"h\":8,\"i\":\"1\"},\"embeddableConfig\":{\"vis\":{\"legendOpen\":false}},\"id\":\"7333b140-5ded-11e8-b96c-afa1a43e8ec0\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"2\",\"gridData\":{\"x\":0,\"y\":0,\"w\":24,\"h\":8,\"i\":\"2\"},\"embeddableConfig\":{\"vis\":{\"legendOpen\":false}},\"id\":\"a00d7930-5ded-11e8-b96c-afa1a43e8ec0\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"3\",\"gridData\":{\"x\":0,\"y\":16,\"w\":24,\"h\":8,\"i\":\"3\"},\"embeddableConfig\":{\"vis\":{\"legendOpen\":false}},\"id\":\"8a873830-5ded-11e8-b96c-afa1a43e8ec0\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"4\",\"gridData\":{\"x\":0,\"y\":8,\"w\":24,\"h\":8,\"i\":\"4\"},\"embeddableConfig\":{\"vis\":{\"legendOpen\":false}},\"id\":\"954094b0-5ded-11e8-b96c-afa1a43e8ec0\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"5\",\"gridData\":{\"x\":24,\"y\":0,\"w\":13,\"h\":8,\"i\":\"5\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"cb7b1180-5dee-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"6\",\"gridData\":{\"x\":24,\"y\":16,\"w\":13,\"h\":8,\"i\":\"6\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"0a7ca2a0-5dee-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"7\",\"gridData\":{\"x\":24,\"y\":8,\"w\":13,\"h\":8,\"i\":\"7\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"1c8889f0-5dee-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"8\",\"gridData\":{\"x\":24,\"y\":24,\"w\":13,\"h\":8,\"i\":\"8\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"26438940-5dee-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"9\",\"gridData\":{\"x\":37,\"y\":0,\"w\":11,\"h\":8,\"i\":\"9\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"1b37d190-5def-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"10\",\"gridData\":{\"x\":37,\"y\":24,\"w\":11,\"h\":8,\"i\":\"10\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"10944700-5def-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"11\",\"gridData\":{\"x\":37,\"y\":16,\"w\":11,\"h\":8,\"i\":\"11\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"dbf84280-5dee-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}},{\"panelIndex\":\"12\",\"gridData\":{\"x\":37,\"y\":8,\"w\":11,\"h\":8,\"i\":\"12\"},\"version\":\"6.3.0\",\"type\":\"visualization\",\"id\":\"04265cb0-5def-11e8-b96c-afa1a43e8ec0\",\"embeddableConfig\":{}}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-30d",
+      "refreshInterval": {
+        "pause": true,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  },
+  {
+    "_id": "3153d9f0-5e9f-11e8-a8a2-196355685530",
+    "_type": "dashboard",
+    "_source": {
+      "title": "[eCommerce] Elastic Tee's",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Beats Crew Neck\":\"#6ED0E0\",\"Elasticsearch Tank\":\"#1F78C1\",\"Kibana V-Neck\":\"#BA43A9\",\"Logstash Hoody\":\"#EAB839\"}}},\"gridData\":{\"h\":13,\"i\":\"1\",\"w\":27,\"x\":0,\"y\":25},\"id\":\"a29ab8e0-5e9f-11e8-a8a2-196355685530\",\"panelIndex\":\"1\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Beats Crew Neck\":\"#6ED0E0\",\"Elasticsearch Tank\":\"#1F78C1\",\"Kibana V-Neck\":\"#BA43A9\",\"Logstash Hoody\":\"#EAB839\"},\"legendOpen\":false}},\"gridData\":{\"h\":14,\"i\":\"2\",\"w\":21,\"x\":27,\"y\":16},\"id\":\"136c8ee0-5ea0-11e8-a8a2-196355685530\",\"panelIndex\":\"2\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":7,\"i\":\"3\",\"w\":27,\"x\":0,\"y\":0},\"id\":\"a311ef40-5ea0-11e8-a8a2-196355685530\",\"panelIndex\":\"3\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"defaultColors\":{\"0 - 9\":\"rgb(247,252,245)\",\"18 - 27\":\"rgb(116,196,118)\",\"27 - 35\":\"rgb(35,139,69)\",\"9 - 18\":\"rgb(199,233,192)\"},\"legendOpen\":false}},\"gridData\":{\"h\":12,\"i\":\"4\",\"w\":21,\"x\":27,\"y\":41},\"id\":\"b52cd540-5ea1-11e8-a8a2-196355685530\",\"panelIndex\":\"4\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":9,\"i\":\"5\",\"w\":13,\"x\":14,\"y\":16},\"id\":\"2cf7a460-5ea2-11e8-a8a2-196355685530\",\"panelIndex\":\"5\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"defaultColors\":{\"1 - 2\":\"rgb(0,104,55)\",\"2 - 3\":\"rgb(183,224,117)\",\"3 - 4\":\"rgb(253,191,111)\",\"4 - 5\":\"rgb(165,0,38)\"},\"legendOpen\":false}},\"gridData\":{\"h\":9,\"i\":\"6\",\"w\":14,\"x\":0,\"y\":7},\"id\":\"98dcd690-5ea3-11e8-a8a2-196355685530\",\"panelIndex\":\"6\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":7,\"i\":\"7\",\"w\":21,\"x\":27,\"y\":0},\"id\":\"6e323bf0-5ea9-11e8-a8a2-196355685530\",\"panelIndex\":\"7\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":15,\"i\":\"8\",\"w\":27,\"x\":0,\"y\":38},\"id\":\"452516f0-5eaa-11e8-a8a2-196355685530\",\"panelIndex\":\"8\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"colors\":{\"Sum of product_price\":\"#E24D42\",\"Total Revenue\":\"#3F6833\",\"Total Transactions\":\"#B7DBAB\"},\"legendOpen\":false}},\"gridData\":{\"h\":11,\"i\":\"9\",\"w\":21,\"x\":27,\"y\":30},\"id\":\"ea29a850-5eaa-11e8-a8a2-196355685530\",\"panelIndex\":\"9\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":19,\"i\":\"11\",\"w\":48,\"x\":0,\"y\":53},\"id\":\"d583b6e0-5ff7-11e8-a8a2-196355685530\",\"panelIndex\":\"11\",\"type\":\"search\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{},\"gridData\":{\"h\":9,\"i\":\"13\",\"w\":34,\"x\":14,\"y\":7},\"id\":\"2c271e90-600e-11e8-a8a2-196355685530\",\"panelIndex\":\"13\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"embeddableConfig\":{\"vis\":{\"defaultColors\":{\"0 - 2000\":\"rgb(247,252,245)\",\"10000 - 12000\":\"rgb(167,219,160)\",\"12000 - 14000\":\"rgb(142,208,139)\",\"14000 - 16000\":\"rgb(116,196,118)\",\"16000 - 18000\":\"rgb(86,182,104)\",\"18000 - 20000\":\"rgb(61,166,90)\",\"2000 - 4000\":\"rgb(237,248,233)\",\"20000 - 22000\":\"rgb(43,148,76)\",\"22000 - 24000\":\"rgb(25,130,62)\",\"24000 - 26000\":\"rgb(5,113,47)\",\"26000 - 28000\":\"rgb(0,91,37)\",\"28000 - 30000\":\"rgb(0,68,27)\",\"4000 - 6000\":\"rgb(225,244,220)\",\"6000 - 8000\":\"rgb(208,236,201)\",\"8000 - 10000\":\"rgb(188,229,181)\"},\"legendOpen\":false}},\"gridData\":{\"h\":9,\"i\":\"15\",\"w\":14,\"x\":0,\"y\":16},\"id\":\"c8b50260-600c-11e8-a8a2-196355685530\",\"panelIndex\":\"15\",\"type\":\"visualization\",\"version\":\"6.3.0\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now",
+      "timeFrom": "now-7d",
+      "refreshInterval": {
+        "pause": true,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"kuery\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  },
+  {
+    "_id": "a5397930-643d-11e8-ae84-938803bff859",
+    "_type": "dashboard",
+    "_source": {
+      "title": "[eCommerce] Elastic Tee's Report",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"panelIndex\":\"1\",\"gridData\":{\"x\":0,\"y\":9,\"w\":27,\"h\":10,\"i\":\"1\"},\"embeddableConfig\":{\"vis\":{\"colors\":{\"Beats Crew Neck\":\"#6ED0E0\",\"Elasticsearch Tank\":\"#1F78C1\",\"Kibana V-Neck\":\"#BA43A9\",\"Logstash Hoody\":\"#EAB839\"}}},\"id\":\"a29ab8e0-5e9f-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"2\",\"gridData\":{\"x\":27,\"y\":9,\"w\":21,\"h\":11,\"i\":\"2\"},\"embeddableConfig\":{\"vis\":{\"colors\":{\"Beats Crew Neck\":\"#6ED0E0\",\"Elasticsearch Tank\":\"#1F78C1\",\"Kibana V-Neck\":\"#BA43A9\",\"Logstash Hoody\":\"#EAB839\"},\"legendOpen\":false}},\"id\":\"136c8ee0-5ea0-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"4\",\"gridData\":{\"x\":0,\"y\":19,\"w\":27,\"h\":12,\"i\":\"4\"},\"embeddableConfig\":{\"vis\":{\"defaultColors\":{\"0 - 9\":\"rgb(247,252,245)\",\"18 - 27\":\"rgb(116,196,118)\",\"27 - 35\":\"rgb(35,139,69)\",\"9 - 18\":\"rgb(199,233,192)\"},\"legendOpen\":false}},\"id\":\"b52cd540-5ea1-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"5\",\"gridData\":{\"x\":11,\"y\":0,\"w\":10,\"h\":9,\"i\":\"5\"},\"embeddableConfig\":{},\"id\":\"2cf7a460-5ea2-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"6\",\"gridData\":{\"x\":0,\"y\":0,\"w\":11,\"h\":9,\"i\":\"6\"},\"embeddableConfig\":{\"vis\":{\"defaultColors\":{\"1 - 2\":\"rgb(0,104,55)\",\"2 - 3\":\"rgb(183,224,117)\",\"3 - 4\":\"rgb(253,191,111)\",\"4 - 5\":\"rgb(165,0,38)\"},\"legendOpen\":false}},\"id\":\"98dcd690-5ea3-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"9\",\"gridData\":{\"x\":27,\"y\":20,\"w\":21,\"h\":11,\"i\":\"9\"},\"embeddableConfig\":{\"vis\":{\"colors\":{\"Sum of product_price\":\"#E24D42\",\"Total Revenue\":\"#3F6833\",\"Total Transactions\":\"#B7DBAB\"},\"legendOpen\":false}},\"id\":\"ea29a850-5eaa-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"},{\"panelIndex\":\"13\",\"gridData\":{\"x\":21,\"y\":0,\"w\":27,\"h\":9,\"i\":\"13\"},\"embeddableConfig\":{},\"id\":\"2c271e90-600e-11e8-a8a2-196355685530\",\"type\":\"visualization\",\"version\":\"6.3.0\"}]",
+      "optionsJSON": "{\"darkTheme\":false,\"hidePanelTitles\":false,\"useMargins\":true}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "Sat May 26 2018 23:59:59 GMT+0100",
+      "timeFrom": "Sun May 20 2018 00:00:00 GMT+0100",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"kuery\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  },
+  {
+    "_id": "a12ebb30-9a47-11e8-b64d-95841ca0b247",
+    "_type": "index-pattern",
+    "_source": {
+      "title": "sample_ecommerce",
+      "timeFieldName": "timestamp",
+      "fields": "[{\"name\":\"_id\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":false},{\"name\":\"_index\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":false},{\"name\":\"_score\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":false,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"_source\",\"type\":\"_source\",\"count\":0,\"scripted\":false,\"searchable\":false,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"_type\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":false},{\"name\":\"customer_id\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"customer_name\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"customer_name.keyword\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"dayOfWeek\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"product_category\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"product_category.keyword\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"product_description\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"product_description.keyword\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"product_id\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"product_name\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"product_name.keyword\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"product_price\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"review_id\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"review_rating\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"review_sentiment_analysis\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":false,\"readFromDocValues\":false},{\"name\":\"review_sentiment_analysis.keyword\",\"type\":\"string\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"review_timestamp\",\"type\":\"date\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"timestamp\",\"type\":\"date\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"transaction_id\",\"type\":\"number\",\"count\":0,\"scripted\":false,\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":true},{\"name\":\"hour_of_day\",\"type\":\"number\",\"count\":0,\"scripted\":true,\"script\":\"doc['timestamp'].value.getHourOfDay()\",\"lang\":\"painless\",\"searchable\":true,\"aggregatable\":true,\"readFromDocValues\":false}]",
+      "fieldFormatMap": "{\"hour_of_day\":{}}"
+    }
+  },
+  {
+    "_id": "a84f5380-5e91-11e8-8388-81f9077de7b1",
+    "_type": "search",
+    "_source": {
+      "title": "Ecommerce Saved Search",
+      "description": "",
+      "hits": 0,
+      "columns": [
+        "product_price",
+        "product_name",
+        "product_category"
+      ],
+      "sort": [
+        "timestamp",
+        "desc"
+      ],
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"highlightAll\":true,\"version\":true,\"query\":{\"query\":\"\",\"language\":\"kuery\"},\"filter\":[]}"
+      }
+    }
+  },
+  {
+    "_id": "d583b6e0-5ff7-11e8-a8a2-196355685530",
+    "_type": "search",
+    "_source": {
+      "title": "[eCommerce] Transactions",
+      "description": "",
+      "hits": 0,
+      "columns": [
+        "product_category",
+        "product_name",
+        "product_price",
+        "customer_id",
+        "review_rating",
+        "review_sentiment_analysis"
+      ],
+      "sort": [
+        "timestamp",
+        "desc"
+      ],
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"highlightAll\":true,\"version\":true,\"query\":{\"language\":\"kuery\",\"query\":\"\"},\"filter\":[]}"
+      }
+    }
+  },
+  {
+    "_id": "a29ab8e0-5e9f-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Product Transactions",
+      "visState": "{\"title\":\"[eCommerce] Product Transactions\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Count\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"Count\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"bottom\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"timestamp\",\"interval\":\"auto\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"product_name.keyword\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "2cf7a460-5ea2-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Total Revenue",
+      "visState": "{\"title\":\"[eCommerce] Total Revenue\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":40}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "ea29a850-5eaa-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Total Revenue vs. Transactions",
+      "visState": "{\"title\":\"[eCommerce] Total Revenue vs. Transactions\",\"type\":\"histogram\",\"params\":{\"type\":\"histogram\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100,\"rotate\":0},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Total Transactions\"}},{\"id\":\"ValueAxis-2\",\"name\":\"RightAxis-1\",\"type\":\"value\",\"position\":\"right\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Total Revenue\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"histogram\",\"mode\":\"stacked\",\"data\":{\"label\":\"Total Transactions\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true},{\"show\":true,\"mode\":\"stacked\",\"type\":\"line\",\"drawLinesBetweenPoints\":false,\"showCircles\":true,\"data\":{\"id\":\"3\",\"label\":\"Total Revenue\"},\"valueAxis\":\"ValueAxis-2\",\"lineWidth\":10}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false,\"radiusRatio\":51},\"aggs\":[{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"product_name.keyword\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Product Name\"}},{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Total Transactions\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"colors\":{\"Sum of product_price\":\"#E24D42\"}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "98dcd690-5ea3-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Average Rating",
+      "visState": "{\"title\":\"[eCommerce] Average Rating\",\"type\":\"gauge\",\"params\":{\"type\":\"gauge\",\"addTooltip\":true,\"addLegend\":true,\"isDisplayWarning\":false,\"gauge\":{\"verticalSplit\":false,\"extendRange\":true,\"percentageMode\":false,\"gaugeType\":\"Arc\",\"gaugeStyle\":\"Full\",\"backStyle\":\"Full\",\"orientation\":\"vertical\",\"colorSchema\":\"Greens\",\"gaugeColorMode\":\"Labels\",\"colorsRange\":[{\"from\":1,\"to\":2},{\"from\":2,\"to\":3},{\"from\":3,\"to\":4},{\"from\":4,\"to\":5}],\"invertColors\":false,\"labels\":{\"show\":false,\"color\":\"black\"},\"scale\":{\"show\":false,\"labels\":false,\"color\":\"#333\"},\"type\":\"meter\",\"style\":{\"bgWidth\":0.9,\"width\":0.9,\"mask\":false,\"bgMask\":false,\"maskBars\":50,\"bgFill\":\"#eee\",\"bgColor\":false,\"subText\":\"\",\"fontSize\":60,\"labelColor\":true}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"review_rating\",\"customLabel\":\"Product Rating\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"defaultColors\":{\"1 - 2\":\"rgb(247,252,245)\",\"2 - 3\":\"rgb(174,222,167)\",\"3 - 4\":\"rgb(55,160,85)\",\"4 - 5\":\"rgb(0,68,27)\"}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "b52cd540-5ea1-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Transactions Day vs. Hour of Day",
+      "visState": "{\"title\":\"[eCommerce] Transactions Day vs. Hour of Day\",\"type\":\"heatmap\",\"params\":{\"type\":\"heatmap\",\"addTooltip\":true,\"addLegend\":true,\"enableHover\":false,\"legendPosition\":\"right\",\"times\":[],\"colorsNumber\":10,\"colorSchema\":\"Greens\",\"setColorRange\":false,\"colorsRange\":[],\"invertColors\":false,\"percentageMode\":false,\"valueAxes\":[{\"show\":false,\"id\":\"ValueAxis-1\",\"type\":\"value\",\"scale\":{\"type\":\"linear\",\"defaultYExtents\":false},\"labels\":{\"show\":false,\"rotate\":0,\"overwriteColor\":false,\"color\":\"#555\"}}]},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"hour_of_day\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":24,\"order\":\"asc\",\"orderBy\":\"_term\"}},{\"id\":\"3\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"group\",\"params\":{\"field\":\"dayOfWeek\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":10,\"order\":\"desc\",\"orderBy\":\"_term\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"defaultColors\":{\"0 - 35\":\"rgb(247,252,245)\",\"35 - 70\":\"rgb(233,247,228)\",\"70 - 105\":\"rgb(211,238,205)\",\"105 - 140\":\"rgb(184,227,177)\",\"140 - 175\":\"rgb(152,213,148)\",\"175 - 210\":\"rgb(116,196,118)\",\"210 - 245\":\"rgb(75,176,98)\",\"245 - 280\":\"rgb(47,152,79)\",\"280 - 315\":\"rgb(21,127,59)\",\"315 - 350\":\"rgb(0,100,40)\"}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "6e323bf0-5ea9-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Description",
+      "visState": "{\"title\":\"[eCommerce] Description\",\"type\":\"markdown\",\"params\":{\"fontSize\":12,\"openLinksInNewTab\":true,\"markdown\":\"This dashboard contains mock eCommerce data. Feel free to interact with the dashboard to filter on specific content or query the data directly. For more information on how the Elastic Stack can handle your Business Analytics use case, check out our solutions page [here](https://www.elastic.co/solutions/business-analytics).\"},\"aggs\":[]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{}"
+      }
+    }
+  },
+  {
+    "_id": "a311ef40-5ea0-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Input Controls",
+      "visState": "{\"title\":\"[eCommerce] Input Controls\",\"type\":\"input_control_vis\",\"params\":{\"controls\":[{\"id\":\"1527090329155\",\"indexPattern\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"fieldName\":\"product_name.keyword\",\"parent\":\"\",\"label\":\"Product Name\",\"type\":\"list\",\"options\":{\"type\":\"terms\",\"multiselect\":true,\"size\":10,\"order\":\"desc\"}},{\"id\":\"1527090308158\",\"indexPattern\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"fieldName\":\"review_rating\",\"parent\":\"\",\"label\":\"Rating\",\"type\":\"range\",\"options\":{\"decimalPlaces\":0,\"step\":1}}],\"updateFiltersOnChange\":false,\"useTimeFilter\":true,\"pinFilters\":false},\"aggs\":[]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"query\":\"\",\"language\":\"lucene\"},\"filter\":[]}"
+      }
+    }
+  },
+  {
+    "_id": "6fa18fa0-5ff7-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Daily Transactions",
+      "visState": "{\"title\":\"[eCommerce] Daily Transactions\",\"type\":\"metrics\",\"params\":{\"id\":\"61ca57f0-469d-11e7-af02-69e470af7417\",\"type\":\"gauge\",\"series\":[{\"id\":\"61ca57f1-469d-11e7-af02-69e470af7417\",\"color\":\"#68BC00\",\"split_mode\":\"everything\",\"metrics\":[{\"id\":\"61ca57f2-469d-11e7-af02-69e470af7417\",\"type\":\"count\"}],\"seperate_axis\":0,\"axis_position\":\"right\",\"formatter\":\"number\",\"chart_type\":\"line\",\"line_width\":1,\"point_size\":1,\"fill\":0.5,\"stacked\":\"none\",\"label\":\"Daily Transactons\"}],\"time_field\":\"@timestamp\",\"index_pattern\":\"logstash-*\",\"interval\":\"1d\",\"axis_position\":\"left\",\"axis_formatter\":\"number\",\"show_legend\":1,\"show_grid\":1,\"gauge_color_rules\":[{\"value\":0,\"id\":\"4a3f66b0-5ff7-11e8-a2c8-d1ef626f693f\"}],\"gauge_width\":10,\"gauge_inner_width\":10,\"gauge_style\":\"half\",\"drop_last_bucket\":0,\"gauge_max\":\"\",\"filter\":\"\"},\"aggs\":[]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{}"
+      }
+    }
+  },
+  {
+    "_id": "2c271e90-600e-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Total Transactions with Poor Review Annotations",
+      "visState": "{\"title\":\"[eCommerce] Total Transactions with Poor Review Annotations\",\"type\":\"metrics\",\"params\":{\"id\":\"61ca57f0-469d-11e7-af02-69e470af7417\",\"type\":\"timeseries\",\"series\":[{\"id\":\"61ca57f1-469d-11e7-af02-69e470af7417\",\"color\":\"#68BC00\",\"split_mode\":\"everything\",\"metrics\":[{\"id\":\"61ca57f2-469d-11e7-af02-69e470af7417\",\"type\":\"count\"}],\"seperate_axis\":0,\"axis_position\":\"right\",\"formatter\":\"number\",\"chart_type\":\"line\",\"line_width\":\"3\",\"point_size\":\"0\",\"fill\":\"0\",\"stacked\":\"none\",\"label\":\"Current\"},{\"id\":\"bb5efaa0-600f-11e8-b398-6b066b31c873\",\"color\":\"rgba(204,204,204,1)\",\"split_mode\":\"everything\",\"metrics\":[{\"id\":\"bb5efaa1-600f-11e8-b398-6b066b31c873\",\"type\":\"count\"}],\"seperate_axis\":0,\"axis_position\":\"right\",\"formatter\":\"number\",\"chart_type\":\"line\",\"line_width\":\"1\",\"point_size\":\"0\",\"fill\":\"0.3\",\"stacked\":\"none\",\"offset_time\":\"1w\",\"label\":\"Previous Week\"}],\"time_field\":\"timestamp\",\"index_pattern\":\"sample_ecommerce\",\"interval\":\"auto\",\"axis_position\":\"left\",\"axis_formatter\":\"number\",\"show_legend\":1,\"show_grid\":1,\"annotations\":[{\"fields\":\"review_rating, review_sentiment_analysis\",\"template\":\"Rating: {{review_rating}} - {{review_sentiment_analysis}}\",\"index_pattern\":\"sample_ecommerce\",\"query_string\":\"review_rating: [0 TO 1] AND review_sentiment_analysis: (\\\"Would not buy again\\\")\",\"id\":\"a27bbde0-600d-11e8-b398-6b066b31c873\",\"color\":\"rgba(25,77,51,1)\",\"time_field\":\"timestamp\",\"icon\":\"fa-comment\",\"ignore_global_filters\":0,\"ignore_panel_filters\":0}],\"legend_position\":\"bottom\"},\"aggs\":[]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{}"
+      }
+    }
+  },
+  {
+    "_id": "7333b140-5ded-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Kibana V-Neck",
+      "visState": "{\"title\":\"[Ecommerce] Kibana V-Neck\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Product Revenue\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"Product Revenue\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Product Revenue\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"timestamp\",\"interval\":\"d\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Kibana V-Neck\",\"params\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "8a873830-5ded-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Elasticsearch Tank",
+      "visState": "{\"title\":\"[Ecommerce] Elasticsearch Tank\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Product Revenue\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"Product Revenue\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Product Revenue\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"timestamp\",\"interval\":\"d\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Elasticsearch Tank\",\"params\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "954094b0-5ded-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Beats Crew Neck",
+      "visState": "{\"title\":\"[Ecommerce] Beats Crew Neck\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Product Revenue\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"Product Revenue\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Product Revenue\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"timestamp\",\"interval\":\"d\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Beats Crew Neck\",\"params\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "26438940-5dee-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Kibana V-Neck Total Revenue",
+      "visState": "{\"title\":\"[Ecommerce] Kibana V-Neck Total Revenue\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Kibana V-Neck\",\"params\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "a00d7930-5ded-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Logstash Hoody",
+      "visState": "{\"title\":\"[Ecommerce] Logstash Hoody\",\"type\":\"line\",\"params\":{\"type\":\"line\",\"grid\":{\"categoryLines\":false,\"style\":{\"color\":\"#eee\"}},\"categoryAxes\":[{\"id\":\"CategoryAxis-1\",\"type\":\"category\",\"position\":\"bottom\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\"},\"labels\":{\"show\":true,\"truncate\":100},\"title\":{}}],\"valueAxes\":[{\"id\":\"ValueAxis-1\",\"name\":\"LeftAxis-1\",\"type\":\"value\",\"position\":\"left\",\"show\":true,\"style\":{},\"scale\":{\"type\":\"linear\",\"mode\":\"normal\"},\"labels\":{\"show\":true,\"rotate\":0,\"filter\":false,\"truncate\":100},\"title\":{\"text\":\"Product Revenue\"}}],\"seriesParams\":[{\"show\":\"true\",\"type\":\"line\",\"mode\":\"normal\",\"data\":{\"label\":\"Product Revenue\",\"id\":\"1\"},\"valueAxis\":\"ValueAxis-1\",\"drawLinesBetweenPoints\":true,\"showCircles\":true}],\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"times\":[],\"addTimeMarker\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Product Revenue\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"date_histogram\",\"schema\":\"segment\",\"params\":{\"field\":\"timestamp\",\"interval\":\"d\",\"customInterval\":\"2h\",\"min_doc_count\":1,\"extended_bounds\":{}}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Logstash Hoody\",\"params\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "0a7ca2a0-5dee-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Elasticsearch Tank Total Revenue",
+      "visState": "{\"title\":\"[Ecommerce] Elasticsearch Tank Total Revenue\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Elasticsearch Tank\",\"params\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "1c8889f0-5dee-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Beats Crew Neck Total Revenue",
+      "visState": "{\"title\":\"[Ecommerce] Beats Crew Neck Total Revenue\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Beats Crew Neck\",\"params\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "10944700-5def-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Kibana V-Neck Average Rating",
+      "visState": "{\"title\":\"[Ecommerce] Kibana V-Neck Average Rating\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"review_rating\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Kibana V-Neck\",\"params\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Kibana V-Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "cb7b1180-5dee-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Logstash Hoody Total Revenue",
+      "visState": "{\"title\":\"[Ecommerce] Logstash Hoody Total Revenue\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\",\"customLabel\":\"Total Revenue\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Logstash Hoody\",\"params\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "dbf84280-5dee-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Elasticsearch Tank Average Rating",
+      "visState": "{\"title\":\"[Ecommerce] Elasticsearch Tank Average Rating\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"review_rating\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Elasticsearch Tank\",\"params\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Elasticsearch Tank\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "136c8ee0-5ea0-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Product Revenue",
+      "visState": "{\"title\":\"[eCommerce] Product Revenue\",\"type\":\"pie\",\"params\":{\"type\":\"pie\",\"addTooltip\":true,\"addLegend\":true,\"legendPosition\":\"right\",\"isDonut\":true,\"labels\":{\"show\":true,\"values\":true,\"last_level\":true,\"truncate\":100}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"sum\",\"schema\":\"metric\",\"params\":{\"field\":\"product_price\"}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"product_name.keyword\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":5,\"order\":\"desc\",\"orderBy\":\"1\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "04265cb0-5def-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Beats Crew Neck Average Rating",
+      "visState": "{\"title\":\"[Ecommerce] Beats Crew Neck Average Rating\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"review_rating\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Beats Crew Neck\",\"params\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Beats Crew Neck\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "1b37d190-5def-11e8-b96c-afa1a43e8ec0",
+    "_type": "visualization",
+    "_source": {
+      "title": "[Ecommerce] Logstash Hoody Average Rating",
+      "visState": "{\"title\":\"[Ecommerce] Logstash Hoody Average Rating\",\"type\":\"metric\",\"params\":{\"addTooltip\":true,\"addLegend\":false,\"type\":\"metric\",\"metric\":{\"percentageMode\":false,\"useRanges\":false,\"colorSchema\":\"Green to Red\",\"metricColorMode\":\"None\",\"colorsRange\":[{\"from\":0,\"to\":10000}],\"labels\":{\"show\":true},\"invertColors\":false,\"style\":{\"bgFill\":\"#000\",\"bgColor\":false,\"labelColor\":false,\"subText\":\"\",\"fontSize\":60}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"avg\",\"schema\":\"metric\",\"params\":{\"field\":\"review_rating\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[{\"meta\":{\"index\":\"07ad9040-5d42-11e8-b65f-05732c6d72d0\",\"negate\":false,\"disabled\":false,\"alias\":null,\"type\":\"phrase\",\"key\":\"product_name.keyword\",\"value\":\"Logstash Hoody\",\"params\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}},\"query\":{\"match\":{\"product_name.keyword\":{\"query\":\"Logstash Hoody\",\"type\":\"phrase\"}}},\"$state\":{\"store\":\"appState\"}}],\"query\":{\"query\":\"\",\"language\":\"lucene\"}}"
+      }
+    }
+  },
+  {
+    "_id": "452516f0-5eaa-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Sentiment Analysis",
+      "visState": "{\"title\":\"[eCommerce] Sentiment Analysis\",\"type\":\"tagcloud\",\"params\":{\"scale\":\"linear\",\"orientation\":\"single\",\"minFontSize\":18,\"maxFontSize\":72,\"showLabel\":false},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{}},{\"id\":\"2\",\"enabled\":true,\"type\":\"terms\",\"schema\":\"segment\",\"params\":{\"field\":\"review_sentiment_analysis.keyword\",\"otherBucket\":false,\"otherBucketLabel\":\"Other\",\"missingBucket\":false,\"missingBucketLabel\":\"Missing\",\"size\":10,\"order\":\"desc\",\"orderBy\":\"1\",\"customLabel\":\"Sentiment Analysis\"}}]}",
+      "uiStateJSON": "{}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  },
+  {
+    "_id": "c8b50260-600c-11e8-a8a2-196355685530",
+    "_type": "visualization",
+    "_source": {
+      "title": "[eCommerce] Total Transactions",
+      "visState": "{\"title\":\"[eCommerce] Total Transactions\",\"type\":\"gauge\",\"params\":{\"type\":\"gauge\",\"addTooltip\":true,\"addLegend\":true,\"isDisplayWarning\":false,\"gauge\":{\"verticalSplit\":false,\"extendRange\":true,\"percentageMode\":false,\"gaugeType\":\"Arc\",\"gaugeStyle\":\"Full\",\"backStyle\":\"Full\",\"orientation\":\"vertical\",\"colorSchema\":\"Greens\",\"gaugeColorMode\":\"Labels\",\"colorsRange\":[{\"from\":0,\"to\":2000},{\"from\":2000,\"to\":4000},{\"from\":4000,\"to\":6000},{\"from\":6000,\"to\":8000},{\"from\":8000,\"to\":10000}],\"invertColors\":false,\"labels\":{\"show\":false,\"color\":\"black\"},\"scale\":{\"show\":false,\"labels\":false,\"color\":\"#333\"},\"type\":\"meter\",\"style\":{\"bgWidth\":0.9,\"width\":0.9,\"mask\":false,\"bgMask\":false,\"maskBars\":50,\"bgFill\":\"#eee\",\"bgColor\":false,\"subText\":\"\",\"fontSize\":60,\"labelColor\":true}}},\"aggs\":[{\"id\":\"1\",\"enabled\":true,\"type\":\"count\",\"schema\":\"metric\",\"params\":{\"customLabel\":\"Total Transactions\"}}]}",
+      "uiStateJSON": "{\"vis\":{\"defaultColors\":{\"0 - 2000\":\"rgb(247,252,245)\",\"2000 - 4000\":\"rgb(199,233,192)\",\"4000 - 6000\":\"rgb(116,196,118)\",\"6000 - 8000\":\"rgb(35,139,69)\",\"8000 - 10000\":\"rgb(0,68,27)\"}}}",
+      "description": "",
+      "version": 1,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"index\":\"a12ebb30-9a47-11e8-b64d-95841ca0b247\",\"filter\":[],\"query\":{\"query\":\"\",\"language\":\"kuery\"}}"
+      }
+    }
+  }
+]
