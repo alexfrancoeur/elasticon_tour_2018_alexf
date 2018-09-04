@@ -20,9 +20,7 @@ Follow the instructions below to install locally
 8. When complete, kill Elasticsearch. Download the `elasticsearch.yml` and `kibana.yml` files from [here](https://drive.google.com/open?id=1s7LKwKuZpnPkJyKIYkO4jATzDBYgjE0J). Replace them in their appropriate directories.
     * I have these running on `localhost:9400` and `localhost:5610` so I can still run other dev builds locally. Feel free to change in the settings but all scripts are setup for these endpoints.
 10. Start Elasticsearch and Kibana, add both the flights and web logs sample data to the cluster
-11. In the [scripts directory](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/tree/master/scripts) of this repo, start running the `canvas_intro_stats.py` script to start generating content for the workpad
+11. In the [scripts directory](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/tree/master/all_scripts) of this repo, start running the `canvas_intro_stats.py` script to start generating content for the workpad
 12. Create an index pattern for `canvas_stats`
-13. From the [canvas_workpads directory](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/tree/master/canvas_workpads), download the `Elastic{ON} Tour 2018 Kibana Canvas.json` workpad. Drag and drop it into the Canvas workpad table. You should have a demoable workpad ready to go.
-
-
-Demo script coming soon..
+13. From the [canvas_workpads directory](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/tree/master/all_canvas_workpads), download the `Elastic{ON} Tour 2018 Kibana Canvas.json` workpad. Drag and drop it into the Canvas workpad table. You should have a demoable workpad ready to go.
+14. Demo script is available [here](https://docs.google.com/document/d/1k3kjuscjdLkW_ECTMT9qE9Ck8Rdcl6IELiZO78aboWs/edit?usp=sharing) if needed
