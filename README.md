@@ -2,6 +2,8 @@
 
 This is not production ready and includes a pre-production version of Kibana. There is a good chance that things will break, it is only meant to be a demo environment.
 
+**Not all images and assets were created by Elastic, please to do not redistribute**
+
 The builds found in this repo have an early version of Spaces. There is also an up to date build of Canvas from master. I am hoping to add a few more future features to this build as well. There is a good chance I'll upload a snapshot of data / dashboards as well so it's easier to get started.
 
 Follow the instructions below to install locally
