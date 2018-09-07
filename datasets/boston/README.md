@@ -2,6 +2,8 @@
 
 [Boston.gov Branding](https://www.boston.gov/news/colors-typefaces-and-look-bostongov)
 
+Use this [demo script](https://docs.google.com/document/d/1k3kjuscjdLkW_ECTMT9qE9Ck8Rdcl6IELiZO78aboWs/edit#bookmark=id.g37wsibtoia2) to build as part of a demo.
+
 ### Ingest data
 Add the csv, template and configuration to your logstash directory and run the following command
 ```
