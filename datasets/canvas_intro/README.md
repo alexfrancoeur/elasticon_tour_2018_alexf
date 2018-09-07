@@ -4,4 +4,4 @@ Then run the python script `canvas_intro_stats.py` to start generating fake Canv
 
 Drag and drop the canvas workpad
 
-![screenshot](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/blob/master/datasets/canvas_intro/canvas_intro.png)
+![screenshot](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/blob/master/images/canvas_intro_workpad.png)

@@ -6,6 +6,13 @@ This is not production ready and includes a pre-production version of Kibana. Th
 
 The builds found in this repo have an early version of Spaces. There is also an up to date build of Canvas from master. I am hoping to add a few more future features to this build as well. There is a good chance I'll upload a snapshot of data / dashboards as well so it's easier to get started.
 
+![screenshot](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/blob/master/images/canvas_intro_workpad.png)
+
+![screenshot](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/blob/master/images/spaces.png)
+
+![screenshot](https://github.com/alexfrancoeur/elasticon_tour_2018_alexf/blob/master/images/boston_workpad.png)
+
+
 Follow the instructions below to install locally
 
 1. [Download](https://drive.google.com/open?id=1puNqeAPjNt4AfG-oscW8eRo9tNS42rGu) and unzip `elasticsearch-7.0.0-alpha1-SNAPSHOT.zip`, navigate to the directory and run `bin/elasticsearch`
